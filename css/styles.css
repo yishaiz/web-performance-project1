@@ -173,10 +173,9 @@ section.country-bar {
   background-color: #f2f2f2;
 }
 
-section.country-bar.hidden {
-  /* display: none; */
+/* section.country-bar.hidden {
   opacity: 0;
-}
+} */
 
 section.best-sellers {
   padding-top: 80px;
