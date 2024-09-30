@@ -178,7 +178,7 @@ section.hero img.desktop {
   max-width: 100%;
   border-radius: 92px;
   background-color: #33c6dd;
-  color: #fff;
+  color: #000;
   font-size: 16px;
   font-weight: 700;
   letter-spacing: 0.4px;
@@ -289,7 +289,7 @@ section.best-sellers .product-slider .product .product-info {
 }
 
 section.best-sellers .product-slider .product .product-info .categories {
-  color: #33c6dd;
+  color: #614dc9;
   font-weight: normal;
   font-size: 14px;
   letter-spacing: 0.35px;
